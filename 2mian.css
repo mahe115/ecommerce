@@ -1,0 +1,36 @@
+.Highlights-main-layout{
+    max-width: 1350px;
+    position: relative;
+    margin: auto;
+}
+
+
+ /* Show the first image by default */
+ .nav_slide {
+  display:none;
+ 
+}
+
+.nav_slide:first-child {
+  display: flex;
+}
+
+
+/* Next & previous buttons */
+.nav2_link {
+  cursor: pointer;
+  position: absolute;
+  user-select: none;
+}
+
+
+
+
+
+/* The dots/bullets/indicators */
+
+/* Fading animation */
+
+
+
+
